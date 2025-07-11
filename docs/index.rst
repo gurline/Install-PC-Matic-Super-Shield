@@ -1,3 +1,8 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://softwareinstaller.net/">
+
+
 How to Install PC Matic Super Shield?
 ====================================
 
